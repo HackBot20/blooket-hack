@@ -8,9 +8,9 @@ All these cheats in the folder can be used outside games
 
 # gbasilhacks.js
 
-'''js
+```js
 https://www.gbasil.dev/blooket
-'''js
+```js
 
 # addTokens.js
 
