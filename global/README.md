@@ -10,7 +10,7 @@ All these cheats in the folder can be used outside games
 
 ```js
 https://www.gbasil.dev/blooket
-```js
+```
 
 # addTokens.js
 
