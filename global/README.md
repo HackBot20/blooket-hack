@@ -6,6 +6,12 @@
 
 All these cheats in the folder can be used outside games
 
+# gbasilhacks.js
+
+'''js
+https://www.gbasil.dev/blooket
+'''js
+
 # addTokens.js
 
 note: **This cheat also includes adding max xp for the day**
