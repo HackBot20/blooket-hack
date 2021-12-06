@@ -8,6 +8,8 @@ All these cheats in the folder can be used outside games
 
 # gbasilhacks.js
 
+note: **Make sure you drag autofill token or multitool to your bookmarklet bar & it should appear**
+
 ```js
 https://www.gbasil.dev/blooket
 ```
